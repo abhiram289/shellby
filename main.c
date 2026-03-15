@@ -274,7 +274,6 @@ int main()
         }
         else
         {
-            // ---------- DAY 5 ADDITION ----------
             if (!background)
             {
                 wait(NULL);
