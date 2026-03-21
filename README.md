@@ -1,4 +1,4 @@
-# Shellby — Custom Unix Shell in C
+# Shellby - Custom Unix Shell in C
 
 Shellby is a lightweight Unix-like command-line shell built in C that replicates core functionalities of traditional shells. It supports command execution, process management, input/output redirection, and piping, providing a hands-on understanding of how modern shells operate internally.
 
