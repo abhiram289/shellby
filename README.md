@@ -23,4 +23,4 @@ Shellby is a lightweight Unix-like command-line shell built in C that replicates
 
 ## Author
 
-[@abhiram289](https://github.com/abhiram289/)
+[abhiram289](https://github.com/abhiram289/)
